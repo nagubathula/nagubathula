@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm N Satya Sai</h1>
+<h1 align="center">Hello All 👋, I'm N Satya Sai</h1>
 <h3 align="center"> About Me</h3>
 	
 <p align="center">
