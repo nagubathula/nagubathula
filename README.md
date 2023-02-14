@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm N Satya Sai</h1>
-<h3 align="center"> About mE</h3>
+<h3 align="center"> About Me</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nagubathula&color=blueviolet&style=flat">
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning about **Cyber Security**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 Currently trying for **GSOC**
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **satyasai2108@gmail.com**
 
 
 	
@@ -25,7 +25,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-<!-- ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -56,4 +55,3 @@
 <p>
 <a href="mailto:satyasai2108@gmail.com">satyasai2108@gmail.com</a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
